@@ -1,0 +1,24 @@
+{
+  "name": "firstnodeserver",
+  "version": "1.0.0",
+  "description": "first sandbox server on heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrBecky22/FirstNodeServer.git"
+  },
+  "author": "Becky Andrews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrBecky22/FirstNodeServer/issues"
+  },
+  "homepage": "https://github.com/DrBecky22/FirstNodeServer#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  }
+}
